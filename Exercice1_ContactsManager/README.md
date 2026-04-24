@@ -17,7 +17,7 @@ git clone https://github.com/inzajrtoure5/exomaisonprojetinfo.git
 3. Lancer `Main.java`
 
 ## Prérequis
-- Java JDK 26
+- Java JDK 21
 - IntelliJ IDEA
 
 ## Auteur
