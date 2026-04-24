@@ -26,7 +26,7 @@ Programme Java qui lit un fichier texte et compte le nombre total de mots.
 
 \## Prérequis
 
-\- Java JDK 26
+\- Java JDK 21
 
 \- IntelliJ IDEA
 
@@ -34,5 +34,5 @@ Programme Java qui lit un fichier texte et compte le nombre total de mots.
 
 \## Auteur
 
-TOURE INZA 
+TOURE INZA
 
