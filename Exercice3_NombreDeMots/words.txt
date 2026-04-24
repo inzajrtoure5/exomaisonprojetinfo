@@ -1,0 +1,24 @@
+Ceci est un fichier de test pour compter les mots .
+
+Interaction de l'utilisateur
+
+Exercice 3 Nombre de mots (A rendre)
+• Démarrez un nouveau projet et construisez
+vous-même un programme de comptage de
+mots.
+• Suivez ces étapes pour compléter l'exercice :– Utilisez le lecteur de fichiers (File Scanner) pour
+lire le contenu de n'importe quel fichier
+volumineux.– Créez une boucle qui lit chaque ligne dans une
+chaîne de caractères (String)
+– Séparez la chaîne en utilisant le caractère espace
+comme délimiteur.– Comptez le nombre de mots dans cette ligne en
+utilisant la longueur du tableau créé après la
+séparation.– Additionnez tous les mots de chaque ligne lue
+dans le fichier.– Affichez le nombre total de mots.
+• Effectuez plusieurs tests.
+• Publiez le projet sur Github et partagez le lien.
+• Utilisez le fichier README.md de Github pour
+documenter le travail.
+• Commentez intelligemment le code.
+• Assurez-vous que le projet Github peut être
+importé sans erreurs et s’exécute
